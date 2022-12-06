@@ -1,3 +1,4 @@
+
 body, html {
     background-color: rgb(54, 17, 77);
 }
@@ -69,6 +70,9 @@ a:hover{
     font-weight: 800;
     position: relative;
     bottom:120px;
+    @media screen {max-width: 350%;
+        min-width: none;
+    }
 }
 
 .div7{
@@ -371,7 +375,10 @@ nav{
     padding-right: 50px;
     margin-left: 350px;
     margin-right:350px;
-    opacity: 0.81;       
+    opacity: 0.81;
+    @media screen {max-width: 200px;
+        
+    }
 }
 .kontakt1{
     background-color:rgb(37, 29, 37) ;
@@ -380,43 +387,6 @@ nav{
     border-radius: 2cm;
     border-color: rgb(119, 0, 230);
     border: 5;
-}
-@media screen and (max-width:600px){ 
-    .hero-image{
-        width:100%;
-    }
-    #slika2{
-        width:100%;
-    }
-    .hero-image2{
-        width:100%;
-    }
-    .haos{
-        width:100%;
-    }
-    .div9 #lista{
-        width:100%;
-    }
-    #slika5{
-        width:100%;
-    }
-    #div6 img{
-        width:100%;
-    }
-    .div7 .drustvenemreze p .dm1 .dm2 .dm3 .dm4 .dm5{
-        width:100%;
-    }
-    body #slika5{
-        width:100%;
-    }
-    #drugih2{
-        width:100%;
-    }
-    .slikatriniti{
-        width:100;
-    }
-    
-
 }
 
 
