@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/issues</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/pulls</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/projects?query=is%3Aopen</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/security</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/commit/76676ffbe73a4e617bb60956c7b46f07b0b883a9</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/main/Kontakt.html</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/main/Onama.html</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/commit/199b5a5c468d94104fa760712c557f2fb18f2484</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/main/Pocetna1.html</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/commit/1424bee460d3a27e81c2654a5fce126e63cb003e</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/main/Proizvodiusluge.html</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/main/index.html</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/commit/3454ec02b628f4be2e6472bd3b49a6893e606e58</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/main/script.js</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/main/style.css</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/commit/b957b355e93b2ea4dc5b9f8886bb305e0d5f476e</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/releases</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/compare</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/caches</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631674161</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631607534</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631565748</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631418579</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631318060</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631261666</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631261495</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/security/policy</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/security/advisories</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/1424bee460d3a27e81c2654a5fce126e63cb003e/Kontakt.html</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/find/main</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/1424bee460d3a27e81c2654a5fce126e63cb003e/Onama.html</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/1424bee460d3a27e81c2654a5fce126e63cb003e/Pocetna1.html</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/1424bee460d3a27e81c2654a5fce126e63cb003e/Proizvodiusluge.html</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/1424bee460d3a27e81c2654a5fce126e63cb003e/index.html</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/1424bee460d3a27e81c2654a5fce126e63cb003e/script.js</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/blob/1424bee460d3a27e81c2654a5fce126e63cb003e/style.css</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/commit/00c660235e82c2301518859c6adb083c8f22c7e5</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels?sort=name-asc</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels?sort=name-desc</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels?sort=count-desc</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels?sort=count-asc</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels/bug</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels/documentation</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels/duplicate</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels/enhancement</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels/good%20first%20issue</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels/help%20wanted</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels/invalid</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels/question</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/labels/wontfix</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?state=open</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?state=closed</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631674161/jobs/6126612795</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631674161/usage</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631607534/jobs/6126458190</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631607534/jobs/6126469771</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631607534/jobs/6126469517</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631607534/usage</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631565748/jobs/6126364379</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631565748/jobs/6126377790</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631565748/jobs/6126377985</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631565748/usage</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631418579/jobs/6126023579</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631418579/jobs/6126033965</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631418579/jobs/6126034152</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631418579/usage</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631318060/jobs/6125791837</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631318060/jobs/6125807341</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631318060/jobs/6125807571</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631318060/usage</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631261666/jobs/6125661291</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631261666/jobs/6125674300</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631261666/jobs/6125674554</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631261666/usage</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/commit/bee41ad04ce048f0c6872762f12a1ffb98e81ee0</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631261495/usage</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/find/1424bee460d3a27e81c2654a5fce126e63cb003e</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631674161/jobs/6126624493</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/doktorgaja/projekatfinalni/actions/runs/3631674161/jobs/6126624718</loc>
+  <lastmod>2022-12-06T17:01:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
