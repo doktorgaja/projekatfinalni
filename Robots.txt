@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow:/Slike/
 
 https://doktorgaja.github.io/projekatfinalni/sitemap.xml
